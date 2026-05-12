@@ -84,7 +84,6 @@ Rather than dramatically oscillating between simple and sophisticated language, 
 ```text
 mlk_rhetoric_analysis/
 ├── data/
-│   ├── audio/
 │   ├── raw_transcripts/
 │   ├── cleaned_transcripts/
 │   ├── linguistic_elevation/
@@ -92,7 +91,6 @@ mlk_rhetoric_analysis/
 ├── notebooks/
 │   ├── 01_text_cleaning.ipynb
 │   └── 02_linguistic_analysis.ipynb
-├── visuals/
 └── README.md
 ```
 
